@@ -1,6 +1,6 @@
 # This is Sky-seed0215 : Skydelta
 
-### :headphones:Sound game BGM lover - :computer:Studying Python...
+### :headphones:Rhythm Game BGM lover - :computer:Studying Python...
 
 #### :diamond_shape_with_a_dot_inside:stats
 
