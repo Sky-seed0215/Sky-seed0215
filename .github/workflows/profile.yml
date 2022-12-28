@@ -29,7 +29,6 @@ jobs:
           template: classic
           plugin_licenses: yes
           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-          plugin_licenses_legal: yes
           plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_followup_archived: yes
