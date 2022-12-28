@@ -22,7 +22,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: Sky-seed0215
           config_timezone: Asia/Tokyo
           base: header, activity, community, repositories, metadata
