@@ -28,6 +28,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           template: classic
           plugin_followup: yes
+          plugin_followup_sections: repositories
           plugin_followup_indepth: yes
           plugin_followup_archived: yes
           plugin_languages: yes
