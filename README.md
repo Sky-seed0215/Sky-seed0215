@@ -1,4 +1,11 @@
-### Hi there 👋
+# This is Sky-seed0215 : Skydelta
+
+### :headphones:Sound game BGM lover - :computer:Studying Python...
+
+#### :diamond_shape_with_a_dot_inside:stats
+
+![CI](https://raw.githubusercontent.com/Sky-seed0215/Sky-seed0215/main/github-metrics.svg?)
+
 
 <!--
 **Sky-seed0215/Sky-seed0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
