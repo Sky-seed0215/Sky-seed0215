@@ -1,4 +1,4 @@
-# This is Sky-seed0215 : Skydelta
+# Hi
 
 ### :headphones:Rhythm Game BGM lover - :computer:Studying Python...
 
